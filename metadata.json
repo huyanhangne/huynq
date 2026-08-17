@@ -1,0 +1,6 @@
+{
+  "name": "ThS. Nguyễn Quang Huy - Profile Giảng viên CNTT",
+  "description": "Trang thông tin cá nhân, giảng dạy Chuyên ngành Công nghệ Thông tin và nghiên cứu Khai phá dữ liệu (Data Mining), AI ứng dụng của ThS. Nguyễn Quang Huy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
